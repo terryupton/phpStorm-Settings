@@ -5,7 +5,7 @@
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,h4,h5,section,article,main,nav,header,footer,table,{%- endif -%}" />
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,h4,h5,section,article,main,nav,header,footer,table" />
     <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre,textarea,span" />
     <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var" />
     <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="" />
