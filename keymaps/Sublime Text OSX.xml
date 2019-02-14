@@ -10,6 +10,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
+  <action id="Arrangement.Rule.Add" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta subtract" />
     <keyboard-shortcut first-keystroke="meta minus" />
@@ -29,6 +30,12 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CompileDirty" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
@@ -92,6 +99,10 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="shift n" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -111,6 +122,9 @@
     <keyboard-shortcut first-keystroke="shift alt subtract" />
     <keyboard-shortcut first-keystroke="shift alt minus" />
     <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
@@ -146,6 +160,12 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="Macro.Navigate 3 Lines (Up)">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="Macro.Navigate 3 lines (Down)">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="Move" />
   <action id="MoveLineDown">
@@ -155,7 +175,8 @@
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="NewElement">
-    <keyboard-shortcut first-keystroke="meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="NextOccurence" />
   <action id="OpenFile">
@@ -172,6 +193,7 @@
   </action>
   <action id="PreviousOccurence" />
   <action id="QuickJavaDoc" />
+  <action id="RemoteHost.NewRemoteItem" />
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
@@ -181,6 +203,12 @@
   <action id="ReplaceInPath" />
   <action id="RestoreDefaultLayout" />
   <action id="Resume" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="alt f3" />
     <keyboard-shortcut first-keystroke="ctrl meta g" />
@@ -189,6 +217,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="ShowBookmarks" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="ShowSettingsAndFindUsages" />
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="shift meta a" />
@@ -214,7 +245,13 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="TypeHierarchy" />
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
 </keymap>

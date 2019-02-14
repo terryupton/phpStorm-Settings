@@ -1,0 +1,14 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Navigate 3 lines (Down)">
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+    </macro>
+    <macro name="Navigate 3 Lines (Up)">
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>
