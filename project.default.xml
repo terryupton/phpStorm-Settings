@@ -10,7 +10,7 @@
             </expanded-state>
             <selected-state>
               <State>
-                <id>BashSupport</id>
+                <id>Angular</id>
               </State>
             </selected-state>
           </profile-state>
@@ -28,21 +28,6 @@
             <option value="reformat" />
           </set>
         </option>
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ScopeChooserConfigurable.UI">
-            <settings>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>

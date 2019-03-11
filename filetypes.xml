@@ -2,9 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitkeep" type=".env file" />
-      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
-      <mapping pattern="artistBioImage" type="Twig" />
-      <removed_mapping pattern=".deployignore" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
