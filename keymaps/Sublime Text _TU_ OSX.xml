@@ -29,6 +29,8 @@
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CompileDirty" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
@@ -146,6 +148,12 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="Macro.Move Caret Down 3 Lines">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="Macro.Move Caret Up 3 Lines">
+    <keyboard-shortcut first-keystroke="meta alt up" />
+  </action>
   <action id="MethodHierarchy" />
   <action id="Move" />
   <action id="MoveLineDown">
