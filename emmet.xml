@@ -1,0 +1,12 @@
+<application>
+  <component name="CssEmmetOptions">
+    <option name="autoInsertCssPrefixedEnabled" value="false" />
+  </component>
+  <component name="EmmetOptions">
+    <option name="bemElementSeparator" value="--" />
+    <option name="previewEnabled" value="true" />
+  </component>
+  <component name="JsxEmmetOptions">
+    <option name="emmetEnabled" value="false" />
+  </component>
+</application>

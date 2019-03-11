@@ -1,0 +1,119 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>BashSupport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/11.1.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.13.0/bin/node">
+      <version-cache version="10.13.0" last-modified="1540888329000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/9.11.1/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v9.4.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/9.4.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.12.3/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v0.12.18/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ActionMacroConfigurationPanel.SPLITTER_PROPORTION" value="0.5" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="terryup&#10;terryupt&#10;terryu&#10;terryupton" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.21264724" />
+    <property name="ColorChooser.RecentColors" value="233-117-14-255,,,233-76-0-255,,,252-255-246-255,,,40-255-245-255,,,87-255-226-255,,,255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.720403" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="InstalledPluginsSearchHistory" value="setting&#10;sa&#10;prettier&#10;plig&#10;craft" />
+    <property name="KEYMAP" value="commit file&#10;commit&#10;version&#10;move caret to top&#10;move caret up 3" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntriesTwig" value="false" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="file types&#10;file typ&#10;new file&#10;directories&#10;auto complete" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.47547683" />
+    <property name="TrendingPluginsSearchHistory" value="macro&#10;key prom&#10;key&#10;save ac&#10;prettier" />
+    <property name="emmet.last.wrap.abbreviations" value="div.test" />
+    <property name="emmet.recent.wrap.abbreviations" value="div.test&#10;z&#10;div.w-1/4&#10;p.text-brand-red&#10;article.mb-24&#10;h2.text-brand.grey.dark.text-lg&#10;div.bg-brand-grey.p-6&#10;div.flex&#10;span.pr-6&#10;div." />
+    <property name="evlsprt.183" value="168ca4a97a0" />
+    <property name="evlsprt2.183" value="16891ab31ea" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="export.settings.path" value="$USER_HOME$/Dropbox/Sync/PhpStorm/settings.zip" />
+    <property name="file.gist.reindex.count" value="41326" />
+    <property name="fileTypeChangedCounter" value="71" />
+    <property name="ignore.power.save.mode" value="true" />
+    <property name="lastTip" value="3" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="param.hints.settings.last.edited.language" value="PHP" />
+    <property name="power.save.mode" value="true" />
+    <property name="selected.color.option.type" value="DEPRECATED_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.CSS" value="Arrangement" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JSON" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Imports" />
+    <property name="settings.code.style.selected.tab.PHP" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.SASS" value="Tabs and Indents" />
+    <property name="settings.code.style.selected.tab.SCSS" value="Other" />
+    <property name="settings.code.style.selected.tab.Twig" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
